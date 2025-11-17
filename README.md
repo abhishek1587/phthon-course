@@ -7,40 +7,14 @@ This repository contains two simple Python scripts demonstrating basic programmi
 ## Task 1: Perform Basic Mathematical Operations
 Problem Statement
 Write a Python program that:
-1. Takes two numbers as input from the user.
-2. Performs the following mathematical operations:
-   - Addition  
-   - Subtraction  
-   - Multiplication  
-   - Division  
-3. Displays the results of each operation.
+1. Takes an integer input from the user.
+2. Checks whether the number is even or odd using an if-else statement.
+3. Displays the result accordingly.
 
-File Name
-`task1_math_operations.py`
 
-How to Run
-python task1_math_operations.py
-=== Basic Mathematical Operations ===
-Enter the first number: 10
-Enter the second number: 5
-
---- Results ---
-Addition: 10 + 5 = 15.0
-Subtraction: 10 - 5 = 5.0
-Multiplication: 10 × 5 = 50.0
-Division: 10 ÷ 5 = 2.0
-
-Task 2: Create a Personalized Greeting
+Task 2: Sum of Integers from 1 to  using a Loop 
  Problem Statement
 Write a Python program that:
-Takes a user's first name and last name as input.Concatenates them into a full name.
-Prints a personalized greeting message using the full name.
-
-File Name
-task2_greeting.py
-How to Run
-python task2_greeting.py
-
---- Results ---
-Enter your first name: Kusum
-Enter your last name: Yadav
+1. Uses a for loop to iterate over numbers from 1 to 50. 
+2. Calculates the sum of all integers in this range.
+3. Display the final sum.
